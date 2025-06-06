@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+}
+nav{
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 30px;
+   
+}
+header{
+    background-image: url(../img/bg-header.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+
+
+   
+
+   section{
+    
+    background-color: #000000;
+    color: #FFFFFF;
+   padding: 30px;
+   }
+   h2{
+    padding-top: 20px;
+   }
+   div{
+    display: inline-block;
+padding: 30px;
+
+ 
+   }
+
+  
+   
+   div p{
+    width: 475px;
+    height: 197px;
+    margin-bottom: 30px;
+   }
+   div img{
+    width: 399px;
+height: 237px;
+
+   }
+.cafe{
+    background-color: #1E1A13;
+}
+.cafes{
+display: flex;
+align-items: center;
+}
+.logo-container {
+   margin: auto;
+   
+    
+  }
+  .iguanas{
+  
+    background-color: #000000;
+
+  }
+
+    
+ 
+  
+  
+   footer{
+    background-color: #1E1A13;
+   color: #FFFFFF;
+   height: 60px;
+padding-top:50px ;
+   }
+
